@@ -1,8 +1,9 @@
 ## ChartParsing
 Using Chart Parsing to check the syntacticality of a sentence
 
-#code
+# code
 input: sentence ---in sentence.txt
+
 output: whether the sentence conform the syntacticality ---in result.txt
 
 实验通过Python实现，在windows7下使用python3.5版本下实现，需要用到numpy、graphviz包。
